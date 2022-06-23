@@ -46,7 +46,7 @@ In order to get started you can take a look at the examples and the reference.
 
 The jupyter notebook can be started by installing jupyter lab and launching it from the SCAbox-sca repository.
 
-```$ jupyter-lab```
+```$ jupyter lab```
 
 ## More
 

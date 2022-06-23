@@ -2,7 +2,6 @@ __pycache__/
 venv/
 .idea/
 data/
-media/
 .pytest_cache/
 docs/build
 deploy_sca
