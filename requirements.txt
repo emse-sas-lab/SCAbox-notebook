@@ -1,0 +1,6 @@
+numpy>=1.19.1
+matplotlib>=3.0.0
+pyserial_asyncio>=0.6
+progressbar2>=4.0.0
+pyserial>=3.0
+ipython>=8.0.0
