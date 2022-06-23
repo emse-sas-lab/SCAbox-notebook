@@ -1,7 +1,4 @@
-
-
 import numpy as np
-import pypower as pp
 import matplotlib.pyplot as plt
 
 from .com_serial import ZyboSerial
