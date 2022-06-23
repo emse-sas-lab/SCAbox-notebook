@@ -1,4 +1,4 @@
-# SCABox Side-Channel Analysis Library
+# SCABox Notebook
 
 [Website](https://emse-sas-lab.github.io/SCAbox/)
 
@@ -8,6 +8,7 @@ This repository contains a Python library to retrieve side-channel acquisition d
 port and perform an attack. It is part of the [SCABox](https://emse-sas-lab.github.io/SCAbox/) project.
 
 - Library : tools to perform attack, serial communication and correlation
+- Notebook: A demo notebook to launch simple SCA attacks
 
 ## Features
 
@@ -23,9 +24,9 @@ port and perform an attack. It is part of the [SCABox](https://emse-sas-lab.gith
 To install the repository you must clone the sources from GitHub and install the pip requirements
 
 ```
-$ git clone https://github.com/emse-sas-lab/SCAbox-sca
-$ cd SCAbox-sca
-$ pip3 install -r requirements.txt
+$ git clone https://github.com/emse-sas-lab/SCAbox-notebook
+$ cd SCAbox-notebook
+$ pip install -r requirements.txt
 ```
 
 You might alternatively create a venv and install the requirements inside to use the project. 
@@ -47,7 +48,6 @@ The jupyter notebook can be started by installing jupyter lab and launching it f
 
 ```$ jupyter-lab```
 
-
 ## More
 
 
@@ -62,7 +62,7 @@ SCABox is an open-source project, all the sources are hosted on GitHub
 
 - [IP repository](https://github.com/emse-sas-lab/SCAbox-ip/)
 - [Acquisition demo](https://github.com/emse-sas-lab/SCAbox-demo/)
-- [Attack demo](https://github.com/emse-sas-lab/SCAbox-automation/)
+- [Attack notebook](https://github.com/emse-sas-lab/SCAbox-notebook/)
 - [SCAbox website](https://github.com/emse-sas-lab/SCAbox/)
 
 Contributing
